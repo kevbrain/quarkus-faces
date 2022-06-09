@@ -83,11 +83,6 @@
             <artifactId>myfaces-quarkus-deployment</artifactId>
             <version>${myfaces.version}</version>
         </dependency>
-        <!-- JIB -->
-        <dependency>
-		  <groupId>io.quarkus</groupId>
-		  <artifactId>quarkus-container-image-jib</artifactId>
-		</dependency>
 
 
         <!-- XML -->
