@@ -6,7 +6,7 @@
     <groupId>com.melloware</groupId>
     <artifactId>quarkus-faces</artifactId>
     <version>11.0.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+   
     <name>quarkus-faces</name>
     <description>Quarkus version of the PrimeFaces Showcase with many optimizations</description>
     <url>https://github.com/melloware/quarkus-faces</url>
